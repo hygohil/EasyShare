@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HARPALSINH\.android\build-cache\269e9f967a7cdd7a675a436e05fe33383c1f225f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Android\Projects\EasyShare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bef1cd0b063ab22f327b5ef341b11f1d107ab9fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Projects\EasyShare\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b703bbbaaef407c83cfd8ddeddf9c9d000305121">
+        <dex dex="C:\Android\Projects\EasyShare\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1b300c2cadd189aa663c032b5bfeac52db265bd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Projects\EasyShare\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Android\Projects\EasyShare\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f4c58aada4f4ed8e3d9d88561966f1ee0eb8a27c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HARPALSINH\.android\build-cache\3d2defa7d410b2e23ed5988eac67b163e01c814d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Android\Projects\EasyShare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a9ed6ea7493739b8c91a1b885252c99dc872555\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HARPALSINH\.android\build-cache\a4a665a30a1b05535b0bc9a1c5bae07f9f481a43\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Android\Projects\EasyShare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b1bdc82b0053b4cc13a4739f9fc5016106084bf\classes.dex" />
+    </item>
+
+</items>
